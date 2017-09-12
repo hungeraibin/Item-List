@@ -49,8 +49,8 @@ H5CSS3
 [瀑布流布局](https://hungeraibin.github.io/demos/work/waterfall/waterfall.html)
 
 [旅游网站](https://hungeraibin.github.io/demos/work/www/index.html)
-
-
+[移动端](https://hungeraibin.github.io/demos/test/flex/phone.html)
+[node e=weather](https://github.com/hungeraibin/demos/blob/master/test/npm/demo4/index.js)
 
 
 
