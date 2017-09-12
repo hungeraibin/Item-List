@@ -26,3 +26,23 @@ H5CSS3
 
 [JS事件](https://hungeraibin.github.io/demos/work/event/event2.html)
 [图片事件](https://hungeraibin.github.io/demos/work/event/event3-1.html)
+
+[ajax sever-mock](https://hungeraibin.github.io/demos/work/j-ajax/index.html)
+[淘宝侧栏](https://hungeraibin.github.io/demos/work/jQuery/task1.html)
+[Tab切换](https://hungeraibin.github.io/demos/work/jQuery/task2.html)
+[事件代理](https://hungeraibin.github.io/demos/work/jQuery/task3.html)
+[Tab左右滑动](https://hungeraibin.github.io/demos/work/jQuery/tab-slideLR.html)
+[媒体查询](https://hungeraibin.github.io/demos/work/mediaQuery/media.html)
+
+封装
+[渐进轮播组件](https://hungeraibin.github.io/demos/work/moudle/carousel-fade.html)
+[滑动轮播](https://hungeraibin.github.io/demos/work/moudle/carousel.html)
+[曝光组件](https://hungeraibin.github.io/demos/work/moudle/exposure.html)
+[模态框](https://hungeraibin.github.io/demos/work/moudle/modal.html)
+[Tab上下](https://hungeraibin.github.io/demos/work/moudle/tab-slide.html)
+[Tab](https://hungeraibin.github.io/demos/work/moudle/tab.html)
+
+
+
+
+
