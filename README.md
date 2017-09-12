@@ -42,6 +42,14 @@ H5CSS3
 [Tab上下](https://hungeraibin.github.io/demos/work/moudle/tab-slide.html)
 [Tab](https://hungeraibin.github.io/demos/work/moudle/tab.html)
 
+[简历模板](https://hungeraibin.github.io/demos/work/resume/resume.html)
+[项目展示](https://hungeraibin.github.io/demos/work/resume/project.html)
+
+[新闻网站](https://hungeraibin.github.io/demos/work/waterfall/news.html)
+[瀑布流布局](https://hungeraibin.github.io/demos/work/waterfall/waterfall.html)
+
+[旅游网站](https://hungeraibin.github.io/demos/work/www/index.html)
+
 
 
 
