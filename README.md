@@ -52,5 +52,5 @@ H5CSS3
 [移动端](https://hungeraibin.github.io/demos/test/flex/phone.html)
 [node e=weather](https://github.com/hungeraibin/demos/blob/master/test/npm/demo4/index.js)
 
-
+[vue在线简历编辑器](https://hungeraibin.github.io/vue-resumer2/dist/#/)
 
