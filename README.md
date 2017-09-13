@@ -1,11 +1,11 @@
 # 我的作品清单
 
 ## 新技术
-### Vue在线简历编辑器 - 技术vue-cli，webpack，Vuex，LeanCloud，LocalStorage
+### Vue在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
 [vue在线简历编辑器](https://hungeraibin.github.io/vue-resumer2/dist/#/)
 
 ## JavaScript
-### 1. JS组件库 - 技术面向对象，JS原型链，构造函数，jQuery，立即执行函数
+### 1. JS组件库 - #### 面向对象，JS原型链，构造函数，jQuery，立即执行函数
 [滑动轮播](https://hungeraibin.github.io/demos/work/moudle/carousel.html)
 [渐进轮播](https://hungeraibin.github.io/demos/work/moudle/carousel-fade.html)
 [曝光组件](https://hungeraibin.github.io/demos/work/moudle/exposure.html)
