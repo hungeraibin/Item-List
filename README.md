@@ -1,6 +1,6 @@
-# 我的作品清单
+## 我的作品清单
 
-## 框架
+### 框架
 #### 1. React Todo待办 
 [react-todo](https://hungeraibin.github.io/react-project2/build/index.html)
 
@@ -10,10 +10,10 @@
 #### 3. jQuery仿网易云音乐 
 [移动端音乐播放器](http://hungeraibin.top/)
 
-## node.js - 包管理器npm开源生态系统
+### node.js - 包管理器npm开源生态系统
 [node weather](https://github.com/hungeraibin/weather)
 
-## JavaScript
+### JavaScript
 #### 1. JS组件库 - 面向对象，JS原型链，构造函数，jQuery，立即执行函数
 [滑动轮播](https://hungeraibin.github.io/demos/work/moudle/carousel.html)
 [渐进轮播](https://hungeraibin.github.io/demos/work/moudle/carousel-fade.html)
@@ -38,7 +38,7 @@
 [渐进轮播](https://hungeraibin.github.io/demos/work/Carousel/fade-carousel.html)
 [侧栏效果](https://hungeraibin.github.io/demos/work/jQuery/task1.html)
 
-## HTML$CSS
+### HTML$CSS
 #### 1. 我的UI组件库
 [笑脸切换](https://hungeraibin.github.io/demos/work/before/smile.html)
 [表单](https://hungeraibin.github.io/demos/work/BFC/task10-2.html)
