@@ -29,7 +29,6 @@
 [木桶布局](https://hungeraibin.github.io/demos/work/barrellayout/barrel.html)
 
 #### 3. JS小知识点 - 事件模型，事件代理，原生JS，DOM操作，jquery
-[JS事件](https://hungeraibin.github.io/demos/work/event/event2.html)
 [事件代理](https://hungeraibin.github.io/demos/work/jQuery/task3.html)
 [ajax sever-mock](https://hungeraibin.github.io/demos/work/j-ajax/index.html)
 [图片事件](https://hungeraibin.github.io/demos/work/event/event3-1.html)
