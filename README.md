@@ -29,13 +29,11 @@
 
 #### 3. JS Demo - 事件模型，事件代理，原生JS，DOM操作，jQuery
 [事件代理](https://hungeraibin.github.io/demos/work/jQuery/task3.html)
-[ajax sever-mock](https://hungeraibin.github.io/demos/work/j-ajax/index.html)
-[图片事件](https://hungeraibin.github.io/demos/work/event/event3-1.html)
 [Tab切换](https://hungeraibin.github.io/demos/work/jQuery/task2.html)
 [Tab左右滑动](https://hungeraibin.github.io/demos/work/jQuery/tab-slideLR.html)
-[滑动轮播](https://hungeraibin.github.io/demos/work/Carousel/Carousel.html#)
-[渐进轮播](https://hungeraibin.github.io/demos/work/Carousel/fade-carousel.html)
 [侧栏效果](https://hungeraibin.github.io/demos/work/jQuery/task1.html)
+[ajax sever-mock](https://hungeraibin.github.io/demos/work/j-ajax/index.html)
+[图片事件](https://hungeraibin.github.io/demos/work/event/event3-1.html)
 
 ### HTML$CSS
 #### 1. 静态页面
