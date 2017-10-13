@@ -11,7 +11,7 @@
 [移动端音乐播放器](http://hungeraibin.top/)
 
 ## node.js - 包管理器npm开源生态系统
-[node weather源码](https://github.com/hungeraibin/demos/blob/master/test/npm/demo4/index.js)
+[node weather](https://github.com/hungeraibin/weather)
 
 ## JavaScript
 #### 1. JS组件库 - 面向对象，JS原型链，构造函数，jQuery，立即执行函数
