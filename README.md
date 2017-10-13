@@ -16,7 +16,6 @@
 ### JavaScript
 #### 1. 综合性网站 - AJAX，JSONP，轮播，懒加载，瀑布流布局, 木桶布局
 [新闻网站](https://hungeraibin.github.io/demos/work/waterfall/news.html)
-[瀑布流布局](https://hungeraibin.github.io/demos/work/waterfall/waterfall.html)
 [旅游网站](https://hungeraibin.github.io/demos/work/www/index.html)
 [木桶布局](https://hungeraibin.github.io/demos/work/barrellayout/barrel.html)
 
