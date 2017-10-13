@@ -1,9 +1,14 @@
 # 我的作品清单
 
-## 新技术
-#### Vue在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
+## 框架
+#### 1. React Todo待办 
+[react-todo](https://hungeraibin.github.io/react-project2/build/index.html)
+
+#### 2. Vue在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
 [vue在线简历编辑器](https://hungeraibin.github.io/vue-resumer2/dist/#/)
 
+#### 3. jQuery仿网易云音乐 
+[移动端音乐播放器](http://hungeraibin.top/)
 
 ## node.js - 包管理器npm开源生态系统
 [node weather](https://github.com/hungeraibin/demos/blob/master/test/npm/demo4/index.js)
