@@ -54,7 +54,7 @@
 #### 2. HTML5和CSS3 - 新特性，动画效果
 [Loading](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo1.html)
 [Loading2](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo2.html)
-[过渡色](https://github.com/hungeraibin/demos/blob/master/work/HTML5CSS3/demo0.html)
+[过渡色](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo0.html)
 [媒体查询](https://hungeraibin.github.io/demos/work/mediaQuery/media.html)
 
 #### 3. 静态页面小练习 
