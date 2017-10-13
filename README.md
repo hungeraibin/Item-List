@@ -1,14 +1,14 @@
 ## 我的作品清单
 
 ### 框架
-#### 1. React Todo待办 
-[react-todo](https://hungeraibin.github.io/react-project2/build/index.html)  [查看源码](https://github.com/hungeraibin/react-project2)
+#### 1. 基于React的在线Todo应用
+[预览地址](https://hungeraibin.github.io/react-project2/build/index.html)  [查看源码](https://github.com/hungeraibin/react-project2)
 
-#### 2. Vue在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
-[vue在线简历编辑器](https://hungeraibin.github.io/vue-resumer2/dist/#/)  [查看源码](https://github.com/hungeraibin/vue-resumer2)
+#### 2. 基于Vue的在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
+[预览地址](https://hungeraibin.github.io/vue-resumer2/dist/#/)  [查看源码](https://github.com/hungeraibin/vue-resumer2)
 
-#### 3. jQuery仿网易云音乐 
-[移动端音乐播放器](http://hungeraibin.top/)  [查看源码](https://github.com/hungeraibin/NetEaseMusic)
+#### 3. 移动端音乐播放器
+[预览地址](http://hungeraibin.top/)  [查看源码](https://github.com/hungeraibin/NetEaseMusic)
 
 ### node.js - 包管理器npm开源生态系统
 [node weather](https://github.com/hungeraibin/weather)
