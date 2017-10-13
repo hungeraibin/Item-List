@@ -45,7 +45,6 @@
 [Loading](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo1.html)
 [Loading2](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo2.html)
 [过渡色](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo0.html)
-[媒体查询](https://hungeraibin.github.io/demos/work/mediaQuery/media.html)
 
 #### 2. 我的UI组件库
 [笑脸切换](https://hungeraibin.github.io/demos/work/before/smile.html)
