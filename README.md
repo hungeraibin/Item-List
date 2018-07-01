@@ -10,6 +10,15 @@
 #### 3. 移动端音乐播放器 - jQuery, H5, AJAX, RegExp, CDN
 [预览地址](http://hungeraibin.top/)  [查看源码](https://github.com/hungeraibin/NetEaseMusic)
 
+#### 4. 仿饿了么APP - Vue.js，ES6
+[查看源码](https://github.com/hungeraibin/vue-element)
+
+#### 5. 音乐APP - Vue.js，ES6,Vuex，webpack，axios
+[查看源码](https://github.com/hungeraibin/vue-musicapp)
+
+#### 6. 前端工程化搭建 - webpack，npm scripts，babel
+[查看源码](https://github.com/hungeraibin/project-fe)
+
 ### node.js - 包管理器npm开源生态系统
 [node weather](https://github.com/hungeraibin/weather)
 
