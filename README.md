@@ -8,7 +8,7 @@
 [预览地址](https://hungeraibin.github.io/vue-resumer2/dist/#/)  [查看源码](https://github.com/hungeraibin/vue-resumer2)
 
 #### 3. 移动端音乐播放器 - jQuery, H5, AJAX, RegExp, CDN
-[预览地址](http://hungeraibin.top/)  [查看源码](https://github.com/hungeraibin/NetEaseMusic)
+[预览地址](https://hungeraibin.github.io/NetEaseMusic/)  [查看源码](https://github.com/hungeraibin/NetEaseMusic)
 
 #### 4. 仿饿了么APP - Vue.js，ES6
 [查看源码](https://github.com/hungeraibin/vue-element)
