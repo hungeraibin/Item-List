@@ -1,25 +1,28 @@
 ## 我的作品清单
 
 ### 框架
-#### 1. 基于React的在线Todo应用 - React, ES6, LeanCloud
+#### 1. 自制Vue UI框架 Gilt UI - Vue，parcel，webpack，chai，mocha
+[预览地址](https://hungeraibin.github.io/GILTUI/)  [查看源码](https://github.com/hungeraibin/GILTUI)
+
+#### 2. 基于React的在线Todo应用 - React, ES6, LeanCloud
 [预览地址](https://hungeraibin.github.io/react-project2/build/index.html)  [查看源码](https://github.com/hungeraibin/react-project2)
 
-#### 2. 基于Vue的在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
+#### 3. 基于Vue的在线简历编辑器 - vue-cli，webpack，Vuex，LeanCloud，LocalStorage
 [预览地址](https://hungeraibin.github.io/vue-resumer2/dist/#/)  [查看源码](https://github.com/hungeraibin/vue-resumer2)
 
-#### 3. 移动端音乐播放器 - jQuery, H5, AJAX, RegExp, CDN
+#### 4. 移动端音乐播放器 - jQuery, H5, AJAX, RegExp, CDN
 [预览地址](https://hungeraibin.github.io/NetEaseMusic/)  [查看源码](https://github.com/hungeraibin/NetEaseMusic)
 
-#### 4. 仿饿了么APP - Vue.js，ES6
+#### 5. 仿饿了么APP - Vue.js，ES6
 [查看源码](https://github.com/hungeraibin/vue-element)
 
-#### 5. 音乐APP - Vue.js，ES6,Vuex，webpack，axios
+#### 6. 音乐APP - Vue.js，ES6,Vuex，webpack，axios
 [查看源码](https://github.com/hungeraibin/vue-musicapp)
 
-#### 6. 前端工程化搭建 - webpack，npm scripts，babel
+#### 7. 前端工程化搭建 - webpack，npm scripts，babel
 [查看源码](https://github.com/hungeraibin/project-fe)
 
-### node.js - 包管理器npm开源生态系统
+### node.js - nom包 查询天气命令行
 [node weather](https://github.com/hungeraibin/weather)
 
 ### JavaScript
@@ -55,7 +58,7 @@
 [Loading2](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo2.html)
 [过渡色](https://hungeraibin.github.io/demos/work/HTML5CSS3/demo0.html)
 
-#### 2. 我的UI组件库
+#### 2. 我的原生UI组件库
 [笑脸切换](https://hungeraibin.github.io/demos/work/before/smile.html)
 [表单](https://hungeraibin.github.io/demos/work/BFC/task10-2.html)
 [模态框](https://hungeraibin.github.io/demos/work/BFC/task10-3.html)
